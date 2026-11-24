@@ -59,3 +59,4 @@ Les scripts de `db/init/` ne s'exécutent que lorsque le volume de données est 
 docker compose down -v
 docker compose up -d
 ```
+Environnement configuré : Node, npm, Git.
